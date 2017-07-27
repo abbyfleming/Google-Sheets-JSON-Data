@@ -1,0 +1,20 @@
+
+.tTable {
+	display: table;
+	width: 100%;
+}
+
+.tRow {
+	display: table-row;
+}
+
+.tCell {
+	border: 1px solid #eee;
+	display: table-cell;
+	padding: 3px 5px;
+}
+
+.tBody {
+	display: table-row-group;
+}
+
